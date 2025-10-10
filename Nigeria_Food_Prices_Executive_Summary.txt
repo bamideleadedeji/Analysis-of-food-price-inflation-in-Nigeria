@@ -1,0 +1,60 @@
+NIGERIA FOOD PRICES AND INSIGHTS
+Executive Summary
+==================================================
+
+1 OVERVIEW
+This analysis reveals a severe food inflation crisis in Nigeria, with an average year-over-year inflation rate of 25.9% across essential food commodities. The situation represents a significant threat to household food security and economic stability.
+
+• Analysis Period: November 2021 - November 2022
+• Items Analyzed: 10 essential commodities
+• Crisis Level: 6 out of 10 items show >20% inflation
+
+2 PROBLEM
+The analysis identifies critical inflationary pressures across multiple food categories:
+
+TOP 5 INFLATED ITEMS:
+1. Agric eggs(medium size price of one): 41.2% inflation
+2. Bread unsliced 500g: 34.3% inflation
+3. Bread sliced 500g: 30.9% inflation
+4. Beef,boneless: 29.0% inflation
+5. Beef Bone in: 28.6% inflation
+
+3 IMPACT
+The inflation crisis has severe implications for household budgets:
+
+MONTHLY COST INCREASES:
+• Agric eggs(medium size price of one): ₦708 additional
+• Bread sliced 500g: ₦999 additional
+• Bread unsliced 500g: ₦502 additional
+• Beef,boneless: ₦1,051 additional
+• Beef Bone in: ₦782 additional
+
+TOTAL IMPACT:
+• Monthly Increase: ₦4,042
+• Annual Increase: ₦48,510
+
+4 SOLUTION
+IMMEDIATE ACTIONS (0-3 months):
+• Address egg supply chain (41.2% inflation)
+• Stabilize bread prices through wheat import policies
+• Regulate beef markets and improve livestock supply chains
+
+MEDIUM-TERM STRATEGIES (3-12 months):
+• Support local food production
+• Optimize supply chain logistics
+• Implement price monitoring systems
+
+5 INSIGHTS AND NEXT STEPS
+CRITICAL INSIGHTS:
+Processed foods show highest inflation (32.6% average)
+Protein sources becoming unaffordable for average households
+Food security at risk for vulnerable populations
+
+NEXT STEPS:
+1. Implement weekly price surveillance
+2. Engage stakeholders across supply chains
+3. Develop targeted intervention strategies
+4. Monitor policy effectiveness
+
+==================================================
+Report Generated: 2025-10-10
